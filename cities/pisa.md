@@ -17,5 +17,6 @@ hiatus: False
 hiatus_months:
     - 2016-08
 changed_dates:
+    - 2018-02-22
     - 2019-05-23
 ---
